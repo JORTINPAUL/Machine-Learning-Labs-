@@ -1,0 +1,500 @@
+Sex,Country,ParentEducation,FinancialAid,TestPreparation,Science,Language,Communcation
+Girl,UK,bachelor's degree,No Assistance,Minimum,75,74,75
+Girl,USA,some college,No Assistance,Thorough,72,92,89
+Girl,UK,master's degree,No Assistance,Minimum,93,97,94
+Boy,India,associate's degree,Assisted,Minimum,50,59,45
+Boy,USA,some college,No Assistance,Minimum,79,80,76
+Girl,UK,associate's degree,No Assistance,Minimum,74,85,79
+Girl,UK,some college,No Assistance,Thorough,91,97,93
+Boy,UK,some college,Assisted,Minimum,43,45,40
+Boy,Australia,high school,Assisted,Thorough,67,66,68
+Girl,UK,high school,Assisted,Minimum,41,62,51
+Boy,USA,associate's degree,No Assistance,Minimum,61,56,53
+Boy,Australia,associate's degree,No Assistance,Minimum,43,54,44
+Girl,UK,high school,No Assistance,Minimum,68,83,74
+Boy,India,some college,No Assistance,Thorough,81,74,71
+Girl,India,master's degree,No Assistance,Minimum,53,55,59
+Girl,USA,some high school,No Assistance,Minimum,72,77,79
+Boy,USA,high school,No Assistance,Minimum,91,91,87
+Girl,UK,some high school,Assisted,Minimum,21,34,29
+Boy,USA,master's degree,Assisted,Thorough,49,44,47
+Girl,USA,associate's degree,Assisted,Minimum,57,60,62
+Boy,Australia,high school,No Assistance,Minimum,69,71,64
+Girl,UK,some college,Assisted,Thorough,68,77,71
+Boy,Australia,some college,No Assistance,Minimum,47,56,54
+Girl,USA,some high school,No Assistance,Minimum,72,75,74
+Boy,Australia,bachelor's degree,Assisted,Thorough,77,73,81
+Boy,India,master's degree,Assisted,Minimum,76,76,73
+Boy,UK,some college,No Assistance,Minimum,72,56,56
+Girl,USA,bachelor's degree,No Assistance,Minimum,70,71,76
+Boy,USA,high school,No Assistance,Minimum,73,72,66
+Girl,Australia,master's degree,No Assistance,Minimum,65,72,76
+Girl,Australia,some college,No Assistance,Minimum,72,76,75
+Girl,UK,some college,No Assistance,Minimum,66,67,62
+Girl,Others,master's degree,Assisted,Minimum,59,74,66
+Boy,Australia,some college,No Assistance,Minimum,43,44,39
+Boy,Others,some college,No Assistance,Minimum,100,89,83
+Boy,Others,associate's degree,No Assistance,Thorough,84,83,80
+Girl,Australia,associate's degree,No Assistance,Minimum,77,83,84
+Girl,Australia,some high school,Assisted,Minimum,53,66,60
+Girl,Australia,associate's degree,Assisted,Thorough,78,92,89
+Boy,UK,associate's degree,Assisted,Minimum,60,58,58
+Boy,USA,associate's degree,Assisted,Minimum,58,63,55
+Girl,USA,associate's degree,No Assistance,Minimum,61,75,69
+Girl,UK,associate's degree,No Assistance,Minimum,56,60,66
+Boy,UK,some college,Assisted,Thorough,62,67,67
+Girl,Others,associate's degree,Assisted,Minimum,53,58,55
+Boy,UK,associate's degree,No Assistance,Minimum,68,56,58
+Girl,India,associate's degree,No Assistance,Thorough,58,67,63
+Girl,USA,high school,No Assistance,Minimum,69,73,77
+Girl,Australia,associate's degree,Assisted,Thorough,60,76,77
+Boy,USA,high school,No Assistance,Thorough,85,86,83
+Boy,Others,some college,No Assistance,Minimum,56,57,49
+Boy,Others,associate's degree,Assisted,Thorough,80,71,69
+Boy,USA,some college,No Assistance,Minimum,56,46,43
+Boy,Australia,high school,No Assistance,Minimum,91,80,76
+Girl,USA,some high school,Assisted,Thorough,74,86,88
+Girl,USA,high school,Assisted,Minimum,36,43,44
+Girl,Others,associate's degree,No Assistance,Thorough,85,87,87
+Boy,Australia,associate's degree,No Assistance,Minimum,55,57,50
+Boy,Australia,some college,No Assistance,Thorough,61,61,59
+Girl,USA,some high school,Assisted,Minimum,3,19,11
+Boy,Others,bachelor's degree,Assisted,Thorough,82,76,73
+Boy,India,some high school,Assisted,Minimum,42,41,35
+Boy,India,associate's degree,Assisted,Minimum,65,63,56
+Girl,USA,associate's degree,No Assistance,Minimum,72,82,72
+Girl,Australia,some high school,No Assistance,Minimum,62,60,60
+Boy,UK,some high school,No Assistance,Minimum,70,66,62
+Boy,Australia,some high school,Assisted,Minimum,48,39,38
+Girl,USA,some college,No Assistance,Minimum,63,74,75
+Boy,UK,associate's degree,Assisted,Minimum,64,60,57
+Girl,USA,associate's degree,No Assistance,Minimum,42,66,58
+Girl,Australia,some college,Assisted,Thorough,61,65,74
+Boy,Australia,some college,No Assistance,Thorough,66,57,64
+Girl,India,associate's degree,Assisted,Minimum,44,53,49
+Boy,USA,some high school,Assisted,Minimum,64,59,57
+Boy,USA,some high school,No Assistance,Minimum,52,51,42
+Boy,UK,associate's degree,Assisted,Minimum,47,43,39
+Boy,Others,some high school,No Assistance,Minimum,33,28,23
+Boy,India,bachelor's degree,No Assistance,Thorough,83,80,82
+Girl,Australia,some high school,No Assistance,Thorough,64,76,73
+Girl,Others,master's degree,No Assistance,Minimum,65,70,69
+Girl,UK,associate's degree,No Assistance,Minimum,50,51,51
+Boy,UK,high school,Assisted,Minimum,52,47,46
+Boy,India,some college,Assisted,Thorough,53,49,55
+Boy,Others,associate's degree,No Assistance,Minimum,75,66,64
+Boy,Australia,high school,Assisted,Minimum,45,41,35
+Girl,USA,some college,No Assistance,Minimum,76,82,83
+Girl,USA,some college,Assisted,Minimum,79,85,89
+Girl,Australia,associate's degree,No Assistance,Minimum,74,73,75
+Girl,India,some college,No Assistance,Minimum,61,72,68
+Girl,Australia,some high school,No Assistance,Minimum,76,88,83
+Girl,USA,bachelor's degree,No Assistance,Minimum,68,74,75
+Boy,USA,high school,Assisted,Minimum,30,36,37
+Boy,USA,high school,No Assistance,Minimum,74,81,72
+Boy,USA,associate's degree,Assisted,Thorough,46,47,51
+Girl,UK,some college,No Assistance,Minimum,82,88,93
+Boy,USA,associate's degree,Assisted,Thorough,81,83,83
+Boy,UK,some high school,No Assistance,Thorough,68,68,63
+Girl,Others,some college,No Assistance,Thorough,66,74,71
+Girl,Australia,some college,Assisted,Minimum,61,69,63
+Girl,Australia,bachelor's degree,No Assistance,Minimum,68,69,63
+Boy,UK,some college,No Assistance,Minimum,82,69,68
+Boy,Australia,bachelor's degree,No Assistance,Thorough,71,76,75
+Girl,Australia,associate's degree,No Assistance,Minimum,88,93,90
+Boy,UK,high school,No Assistance,Thorough,63,46,48
+Boy,USA,some college,No Assistance,Thorough,100,88,91
+Girl,USA,some college,No Assistance,Minimum,61,69,73
+Girl,Australia,master's degree,No Assistance,Minimum,90,99,98
+Boy,Others,associate's degree,No Assistance,Thorough,69,65,65
+Girl,UK,associate's degree,Assisted,Minimum,55,78,71
+Girl,UK,some high school,No Assistance,Minimum,73,66,73
+Girl,Australia,associate's degree,Assisted,Thorough,80,91,99
+Boy,USA,high school,No Assistance,Minimum,65,57,50
+Boy,India,associate's degree,No Assistance,Minimum,57,55,48
+Girl,Australia,some college,No Assistance,Minimum,54,60,55
+Girl,Others,bachelor's degree,No Assistance,Thorough,99,99,98
+Boy,USA,high school,No Assistance,Minimum,87,79,75
+Girl,UK,bachelor's degree,Assisted,Minimum,78,87,83
+Girl,Australia,bachelor's degree,No Assistance,Minimum,81,84,80
+Girl,Australia,some high school,No Assistance,Minimum,54,65,62
+Girl,USA,some college,No Assistance,Minimum,58,71,66
+Girl,USA,bachelor's degree,No Assistance,Thorough,82,94,90
+Boy,UK,associate's degree,No Assistance,Thorough,94,91,93
+Girl,USA,some college,No Assistance,Thorough,91,95,94
+Boy,Australia,high school,Assisted,Minimum,66,59,57
+Boy,Others,some college,No Assistance,Minimum,86,82,74
+Girl,UK,high school,No Assistance,Minimum,90,97,87
+Boy,UK,some high school,No Assistance,Minimum,75,70,68
+Boy,Australia,some college,No Assistance,Thorough,68,79,75
+Boy,Australia,master's degree,No Assistance,Minimum,85,84,75
+Girl,India,bachelor's degree,No Assistance,Minimum,54,51,52
+Boy,Australia,master's degree,No Assistance,Minimum,92,86,83
+Boy,USA,some high school,Assisted,Thorough,56,39,41
+Boy,Others,some college,Assisted,Thorough,90,76,71
+Girl,USA,some college,No Assistance,Thorough,78,83,85
+Boy,Australia,bachelor's degree,Assisted,Thorough,77,81,76
+Boy,USA,bachelor's degree,No Assistance,Minimum,61,57,49
+Boy,UK,some high school,No Assistance,Thorough,54,56,42
+Boy,Others,high school,No Assistance,Minimum,73,57,57
+Girl,USA,associate's degree,No Assistance,Minimum,62,68,68
+Boy,Australia,some college,No Assistance,Thorough,74,63,70
+Girl,Australia,some high school,No Assistance,Minimum,79,74,72
+Girl,USA,some college,Assisted,Minimum,62,64,65
+Girl,Others,some college,Assisted,Thorough,45,57,55
+Boy,India,high school,No Assistance,Minimum,60,45,48
+Boy,Australia,some college,No Assistance,Minimum,91,75,79
+Girl,USA,some college,Assisted,Minimum,25,41,34
+Boy,UK,some high school,No Assistance,Minimum,91,86,76
+Boy,USA,associate's degree,Assisted,Minimum,76,70,67
+Girl,Australia,bachelor's degree,No Assistance,Thorough,71,77,82
+Boy,Others,associate's degree,Assisted,Thorough,100,99,94
+Boy,India,some high school,No Assistance,Thorough,65,69,70
+Boy,India,bachelor's degree,No Assistance,Minimum,80,69,69
+Girl,UK,associate's degree,No Assistance,Thorough,62,72,67
+Boy,Australia,bachelor's degree,No Assistance,Minimum,57,51,48
+Boy,Australia,some high school,No Assistance,Minimum,65,69,62
+Girl,USA,some college,No Assistance,Thorough,73,91,89
+Girl,Others,high school,Assisted,Thorough,69,76,79
+Boy,UK,some college,Assisted,Minimum,63,62,61
+Girl,UK,associate's degree,No Assistance,Thorough,64,88,88
+Boy,Australia,associate's degree,Assisted,Minimum,69,64,65
+Boy,UK,associate's degree,Assisted,Thorough,85,80,75
+Girl,Others,some college,Assisted,Thorough,78,90,86
+Boy,UK,master's degree,Assisted,Minimum,52,55,53
+Boy,USA,high school,No Assistance,Minimum,55,55,50
+Girl,Others,master's degree,No Assistance,Minimum,84,94,92
+Girl,USA,bachelor's degree,No Assistance,Thorough,99,99,98
+Boy,USA,high school,Assisted,Thorough,56,53,52
+Girl,UK,master's degree,Assisted,Thorough,61,78,79
+Girl,UK,high school,No Assistance,Thorough,71,85,79
+Girl,USA,some college,Assisted,Thorough,70,77,71
+Boy,India,high school,No Assistance,Thorough,75,75,75
+Boy,Others,some high school,No Assistance,Minimum,97,90,79
+Girl,Australia,some college,No Assistance,Minimum,82,88,82
+Girl,USA,associate's degree,No Assistance,Minimum,66,69,71
+Girl,USA,bachelor's degree,Assisted,Thorough,46,53,55
+Girl,USA,master's degree,No Assistance,Thorough,84,93,88
+Girl,UK,high school,Assisted,Thorough,49,56,59
+Girl,USA,associate's degree,No Assistance,Thorough,74,79,78
+Girl,UK,master's degree,Assisted,Thorough,55,72,63
+Girl,Australia,some high school,No Assistance,Thorough,100,99,98
+Boy,USA,master's degree,Assisted,Thorough,65,70,76
+Girl,USA,some college,Assisted,Minimum,49,66,67
+Girl,Others,high school,No Assistance,Minimum,53,52,48
+Girl,Australia,associate's degree,No Assistance,Minimum,68,71,71
+Boy,USA,some high school,Assisted,Thorough,48,54,50
+Boy,USA,associate's degree,Assisted,Thorough,68,69,66
+Boy,Others,high school,No Assistance,Minimum,83,78,66
+Boy,Australia,some high school,No Assistance,Thorough,65,68,69
+Boy,UK,some high school,Assisted,Minimum,51,54,46
+Girl,USA,bachelor's degree,No Assistance,Minimum,80,90,88
+Girl,Others,associate's degree,No Assistance,Minimum,69,67,70
+Boy,Australia,some college,No Assistance,Thorough,79,85,80
+Girl,UK,some high school,No Assistance,Minimum,65,66,67
+Boy,Australia,some college,No Assistance,Thorough,80,64,63
+Girl,USA,master's degree,No Assistance,Thorough,72,86,86
+Boy,Australia,associate's degree,No Assistance,Minimum,64,57,53
+Boy,USA,some high school,Assisted,Thorough,62,71,66
+Boy,Others,high school,Assisted,Minimum,58,58,52
+Girl,UK,some college,Assisted,Minimum,48,55,56
+Girl,UK,bachelor's degree,Assisted,Minimum,81,81,77
+Girl,USA,associate's degree,No Assistance,Thorough,70,86,87
+Girl,Australia,some college,Assisted,Minimum,68,83,78
+Boy,USA,associate's degree,No Assistance,Minimum,72,79,70
+Girl,UK,associate's degree,No Assistance,Minimum,60,71,69
+Boy,USA,some college,No Assistance,Minimum,62,43,43
+Boy,Australia,some high school,No Assistance,Thorough,77,73,79
+Boy,Others,bachelor's degree,No Assistance,Minimum,85,64,63
+Boy,Others,high school,No Assistance,Thorough,84,82,77
+Girl,UK,some college,Assisted,Minimum,77,83,77
+Girl,UK,some college,Assisted,Minimum,61,63,67
+Boy,Australia,some high school,Assisted,Thorough,83,81,80
+Boy,USA,some college,Assisted,Minimum,38,30,28
+Girl,USA,high school,Assisted,Minimum,45,64,61
+Boy,USA,associate's degree,Assisted,Thorough,63,53,57
+Boy,Others,high school,No Assistance,Thorough,90,93,82
+Boy,UK,some high school,No Assistance,Thorough,87,85,76
+Girl,Others,associate's degree,Assisted,Thorough,86,88,89
+Girl,USA,high school,Assisted,Minimum,37,44,40
+Boy,UK,high school,Assisted,Minimum,69,79,71
+Boy,UK,some high school,No Assistance,Thorough,64,58,57
+Girl,Australia,high school,No Assistance,Thorough,59,70,75
+Boy,UK,associate's degree,No Assistance,Minimum,90,87,74
+Girl,USA,some high school,Assisted,Minimum,58,67,63
+Boy,Australia,some high school,No Assistance,Minimum,89,82,76
+Girl,UK,associate's degree,No Assistance,Thorough,55,68,74
+Girl,Others,master's degree,Assisted,Minimum,48,58,55
+Girl,USA,some college,No Assistance,Minimum,75,74,72
+Boy,Australia,high school,No Assistance,Minimum,60,52,55
+Boy,India,some high school,Assisted,Minimum,71,74,65
+Girl,USA,some college,No Assistance,Thorough,91,97,95
+Boy,Australia,some college,No Assistance,Minimum,79,66,67
+Boy,USA,associate's degree,No Assistance,Minimum,49,45,43
+Girl,UK,bachelor's degree,No Assistance,Minimum,70,88,84
+Boy,Others,some high school,No Assistance,Minimum,95,89,79
+Boy,USA,bachelor's degree,No Assistance,Thorough,86,84,85
+Boy,Australia,associate's degree,No Assistance,Minimum,83,77,78
+Boy,Australia,bachelor's degree,Assisted,Minimum,66,68,68
+Girl,Australia,some high school,No Assistance,Thorough,67,62,75
+Boy,UK,some college,No Assistance,Minimum,57,54,52
+Boy,USA,associate's degree,No Assistance,Minimum,87,82,81
+Boy,Australia,high school,Assisted,Thorough,76,70,67
+Girl,Others,bachelor's degree,No Assistance,Minimum,83,85,84
+Girl,Australia,high school,No Assistance,Minimum,59,54,56
+Boy,Others,some college,No Assistance,Minimum,62,53,44
+Boy,Australia,some high school,No Assistance,Minimum,78,76,70
+Boy,USA,associate's degree,No Assistance,Minimum,88,78,72
+Boy,Others,associate's degree,No Assistance,Minimum,92,78,75
+Girl,UK,high school,No Assistance,Thorough,61,72,69
+Girl,UK,high school,No Assistance,Minimum,68,66,63
+Boy,USA,high school,No Assistance,Minimum,71,62,54
+Boy,India,some high school,No Assistance,Thorough,50,51,50
+Girl,Australia,some college,Assisted,Minimum,74,85,84
+Girl,UK,some high school,No Assistance,Thorough,63,72,71
+Boy,Australia,master's degree,No Assistance,Minimum,83,82,73
+Boy,Australia,high school,No Assistance,Minimum,57,54,53
+Girl,Others,some college,No Assistance,Minimum,65,75,71
+Girl,USA,associate's degree,Assisted,Minimum,67,75,69
+Boy,USA,associate's degree,No Assistance,Thorough,81,79,78
+Girl,UK,some college,No Assistance,Minimum,73,77,79
+Girl,USA,master's degree,Assisted,Thorough,68,83,82
+Girl,USA,some high school,Assisted,Thorough,67,81,78
+Boy,USA,some college,No Assistance,Thorough,82,81,79
+Girl,USA,some high school,Assisted,Minimum,47,52,52
+Girl,Others,high school,No Assistance,Minimum,99,95,91
+Boy,Australia,high school,No Assistance,Minimum,79,75,69
+Boy,Australia,some high school,Assisted,Minimum,62,44,42
+Girl,USA,bachelor's degree,No Assistance,Minimum,66,77,82
+Girl,Australia,high school,No Assistance,Minimum,72,74,78
+Girl,Australia,associate's degree,No Assistance,Thorough,91,94,96
+Girl,Others,some college,Assisted,Minimum,74,78,71
+Boy,USA,bachelor's degree,No Assistance,Minimum,72,65,62
+Boy,USA,some college,No Assistance,Minimum,61,51,43
+Girl,Australia,associate's degree,Assisted,Minimum,50,55,59
+Girl,Australia,some college,No Assistance,Minimum,68,72,72
+Boy,UK,some college,No Assistance,Thorough,91,87,77
+Boy,USA,bachelor's degree,No Assistance,Minimum,86,80,74
+Girl,USA,some high school,No Assistance,Thorough,88,94,94
+Girl,Others,high school,No Assistance,Thorough,62,65,76
+Girl,USA,some high school,Assisted,Minimum,68,88,81
+Boy,UK,bachelor's degree,Assisted,Minimum,76,58,58
+Boy,Australia,high school,No Assistance,Minimum,56,54,43
+Boy,Australia,high school,No Assistance,Minimum,48,50,47
+Girl,Australia,bachelor's degree,Assisted,Minimum,76,81,85
+Girl,Australia,some college,Assisted,Thorough,73,80,79
+Girl,UK,some high school,No Assistance,Minimum,40,48,47
+Boy,UK,associate's degree,No Assistance,Thorough,84,84,83
+Boy,Others,associate's degree,No Assistance,Thorough,100,84,89
+Girl,UK,some high school,No Assistance,Minimum,70,91,83
+Boy,UK,bachelor's degree,Assisted,Minimum,91,77,77
+Boy,Others,some high school,No Assistance,Thorough,80,78,78
+Boy,USA,associate's degree,No Assistance,Minimum,79,72,69
+Boy,Australia,some high school,No Assistance,Minimum,89,75,71
+Boy,USA,some high school,No Assistance,Thorough,66,62,58
+Girl,Others,bachelor's degree,No Assistance,Minimum,68,75,76
+Boy,Australia,high school,Assisted,Thorough,81,79,81
+Boy,UK,associate's degree,Assisted,Minimum,70,64,61
+Boy,India,some high school,No Assistance,Thorough,49,43,44
+Boy,Others,associate's degree,No Assistance,Thorough,74,76,69
+Boy,USA,high school,Assisted,Thorough,43,48,51
+Boy,Australia,associate's degree,Assisted,Minimum,93,89,76
+Boy,India,some college,Assisted,Thorough,84,80,82
+Boy,Australia,some high school,Assisted,Minimum,59,56,53
+Girl,USA,associate's degree,No Assistance,Thorough,70,86,82
+Boy,UK,associate's degree,No Assistance,Minimum,83,78,65
+Girl,USA,associate's degree,No Assistance,Thorough,77,77,84
+Boy,India,some college,No Assistance,Minimum,72,69,70
+Boy,Others,some college,No Assistance,Thorough,99,89,82
+Boy,USA,some high school,No Assistance,Minimum,54,54,45
+Girl,UK,associate's degree,Assisted,Minimum,56,73,68
+Girl,Australia,high school,Assisted,Minimum,52,59,53
+Girl,UK,associate's degree,No Assistance,Minimum,76,78,81
+Boy,UK,bachelor's degree,No Assistance,Minimum,69,62,58
+Boy,Australia,bachelor's degree,No Assistance,Thorough,70,63,69
+Girl,USA,associate's degree,Assisted,Thorough,71,69,70
+Girl,USA,bachelor's degree,No Assistance,Thorough,62,66,76
+Boy,USA,high school,No Assistance,Minimum,74,68,66
+Girl,Australia,master's degree,No Assistance,Thorough,80,84,92
+Boy,USA,associate's degree,No Assistance,Minimum,86,74,79
+Boy,UK,bachelor's degree,No Assistance,Minimum,66,73,70
+Girl,Australia,associate's degree,Assisted,Minimum,59,67,64
+Girl,USA,high school,Assisted,Thorough,70,81,85
+Girl,Others,high school,No Assistance,Minimum,78,88,80
+Girl,USA,some college,No Assistance,Minimum,74,83,81
+Girl,USA,some high school,Assisted,Minimum,46,55,54
+Girl,USA,high school,Assisted,Minimum,44,48,44
+Girl,USA,some college,No Assistance,Minimum,85,92,95
+Boy,USA,some college,No Assistance,Minimum,64,63,63
+Boy,India,some college,Assisted,Minimum,31,25,20
+Boy,USA,associate's degree,No Assistance,Thorough,85,77,78
+Girl,UK,some high school,No Assistance,Minimum,44,57,52
+Boy,USA,high school,No Assistance,Minimum,74,62,62
+Boy,USA,associate's degree,No Assistance,Minimum,50,39,36
+Boy,Others,associate's degree,No Assistance,Thorough,65,58,54
+Boy,UK,associate's degree,No Assistance,Minimum,93,80,82
+Girl,USA,bachelor's degree,No Assistance,Minimum,86,95,96
+Girl,UK,some college,Assisted,Minimum,64,70,67
+Boy,Australia,some high school,No Assistance,Thorough,79,72,70
+Boy,USA,associate's degree,No Assistance,Minimum,52,53,44
+Girl,UK,some high school,Assisted,Minimum,27,40,28
+Girl,Australia,some high school,Assisted,Thorough,38,57,61
+Boy,USA,high school,Assisted,Minimum,61,63,53
+Girl,USA,high school,No Assistance,Minimum,64,75,64
+Girl,UK,high school,No Assistance,Thorough,72,78,75
+Boy,Australia,associate's degree,No Assistance,Thorough,70,74,68
+Boy,Australia,some college,No Assistance,Minimum,82,75,68
+Girl,USA,high school,No Assistance,Minimum,75,82,76
+Boy,UK,some college,No Assistance,Minimum,65,63,58
+Girl,USA,bachelor's degree,No Assistance,Thorough,80,96,96
+Boy,Australia,high school,Assisted,Minimum,78,76,67
+Boy,Others,associate's degree,No Assistance,Minimum,90,76,77
+Girl,UK,bachelor's degree,No Assistance,Minimum,55,67,70
+Boy,Others,some college,No Assistance,Minimum,69,59,53
+Girl,USA,some college,No Assistance,Thorough,66,80,81
+Girl,USA,associate's degree,No Assistance,Minimum,49,60,58
+Girl,USA,some college,No Assistance,Minimum,62,73,71
+Girl,UK,bachelor's degree,No Assistance,Minimum,64,74,71
+Boy,India,associate's degree,No Assistance,Minimum,66,63,62
+Girl,USA,some college,Assisted,Thorough,45,68,70
+Boy,Australia,some college,Assisted,Minimum,62,64,62
+Girl,Australia,some college,No Assistance,Minimum,83,92,90
+Girl,UK,high school,No Assistance,Minimum,61,64,60
+Boy,UK,some high school,No Assistance,Thorough,88,86,79
+Girl,USA,some college,No Assistance,Minimum,55,60,59
+Girl,Australia,some high school,Assisted,Minimum,30,36,33
+Boy,USA,some college,No Assistance,Minimum,62,62,59
+Boy,India,bachelor's degree,Assisted,Thorough,52,60,61
+Boy,USA,high school,No Assistance,Thorough,72,60,54
+Boy,USA,bachelor's degree,Assisted,Minimum,64,68,62
+Girl,India,some high school,Assisted,Minimum,47,66,59
+Girl,Australia,some high school,No Assistance,Minimum,76,86,86
+Boy,Others,some college,No Assistance,Minimum,87,79,72
+Girl,USA,some college,Assisted,Thorough,48,75,71
+Boy,Australia,some high school,No Assistance,Minimum,77,76,73
+Girl,Australia,some college,No Assistance,Thorough,85,99,97
+Girl,Australia,bachelor's degree,No Assistance,Minimum,62,72,74
+Boy,Others,associate's degree,Assisted,Minimum,49,45,42
+Girl,Australia,some high school,No Assistance,Minimum,83,92,83
+Girl,Australia,master's degree,Assisted,Thorough,88,97,98
+Girl,India,some high school,No Assistance,Minimum,74,85,78
+Boy,India,bachelor's degree,No Assistance,Minimum,69,66,63
+Girl,UK,associate's degree,No Assistance,Minimum,83,88,84
+Boy,USA,associate's degree,No Assistance,Thorough,90,99,96
+Boy,USA,master's degree,Assisted,Minimum,82,83,72
+Girl,Others,some high school,Assisted,Minimum,41,51,46
+Girl,India,some high school,Assisted,Minimum,41,45,44
+Girl,Others,some college,No Assistance,Minimum,70,78,76
+Girl,Others,bachelor's degree,No Assistance,Minimum,67,75,71
+Girl,USA,associate's degree,Assisted,Minimum,60,80,68
+Girl,Australia,high school,No Assistance,Minimum,65,66,65
+Boy,Australia,master's degree,No Assistance,Minimum,76,72,76
+Boy,Others,some high school,Assisted,Thorough,76,69,60
+Girl,Australia,some college,No Assistance,Minimum,80,70,78
+Boy,Others,some college,No Assistance,Minimum,79,69,68
+Boy,USA,associate's degree,No Assistance,Thorough,60,56,57
+Girl,USA,some high school,No Assistance,Thorough,68,76,78
+Boy,India,high school,Assisted,Minimum,51,47,42
+Girl,UK,high school,Assisted,Minimum,53,69,64
+Girl,USA,associate's degree,No Assistance,Minimum,88,91,96
+Boy,UK,some high school,No Assistance,Minimum,77,65,58
+Boy,Australia,some high school,No Assistance,Minimum,63,61,55
+Girl,USA,some high school,No Assistance,Thorough,62,56,68
+Boy,India,some college,No Assistance,Minimum,56,45,44
+Girl,India,some college,Assisted,Minimum,52,67,56
+Girl,Australia,high school,No Assistance,Thorough,91,98,98
+Girl,USA,high school,No Assistance,Minimum,57,61,63
+Girl,USA,some high school,No Assistance,Minimum,66,75,69
+Boy,UK,associate's degree,No Assistance,Thorough,68,67,64
+Girl,UK,associate's degree,No Assistance,Minimum,85,82,78
+Girl,Australia,high school,Assisted,Thorough,55,59,57
+Boy,Australia,associate's degree,No Assistance,Thorough,90,86,86
+Girl,Australia,master's degree,No Assistance,Thorough,73,73,75
+Boy,Others,some college,No Assistance,Thorough,87,85,79
+Boy,Australia,associate's degree,No Assistance,Minimum,74,68,61
+Boy,UK,some high school,No Assistance,Thorough,66,69,68
+Girl,USA,bachelor's degree,Assisted,Thorough,54,74,80
+Boy,Others,high school,No Assistance,Minimum,87,75,70
+Boy,USA,bachelor's degree,No Assistance,Thorough,74,76,69
+Boy,USA,associate's degree,No Assistance,Minimum,77,75,68
+Boy,Australia,some college,No Assistance,Minimum,71,61,63
+Boy,Others,high school,Assisted,Thorough,60,58,55
+Girl,USA,associate's degree,Assisted,Thorough,85,95,94
+Girl,Australia,high school,No Assistance,Thorough,60,60,65
+Girl,Australia,master's degree,Assisted,Thorough,50,60,68
+Girl,India,some high school,No Assistance,Thorough,62,87,81
+Boy,UK,some college,Assisted,Minimum,44,41,35
+Girl,USA,some college,Assisted,Minimum,65,69,63
+Boy,USA,bachelor's degree,No Assistance,Minimum,89,85,87
+Boy,USA,some high school,Assisted,Minimum,72,73,66
+Boy,India,some high school,Assisted,Minimum,68,61,54
+Boy,USA,some high school,Assisted,Minimum,71,65,55
+Boy,USA,associate's degree,Assisted,Minimum,67,68,60
+Girl,USA,high school,No Assistance,Minimum,64,74,71
+Boy,USA,high school,No Assistance,Minimum,64,58,56
+Girl,India,some high school,Assisted,Minimum,50,61,51
+Boy,USA,some high school,No Assistance,Minimum,76,68,67
+Boy,USA,some college,Assisted,Thorough,53,50,54
+Boy,Australia,associate's degree,No Assistance,Minimum,78,70,65
+Boy,Australia,associate's degree,Assisted,Minimum,78,68,74
+Boy,USA,high school,No Assistance,Minimum,73,58,52
+Boy,Australia,some high school,No Assistance,Thorough,92,90,83
+Girl,USA,some college,No Assistance,Thorough,70,83,80
+Girl,Australia,high school,No Assistance,Minimum,81,83,81
+Girl,India,some high school,Assisted,Minimum,62,75,70
+Girl,UK,associate's degree,No Assistance,Minimum,76,85,77
+Boy,India,some high school,Assisted,Minimum,82,84,74
+Girl,USA,some high school,No Assistance,Thorough,70,76,78
+Boy,Australia,some college,Assisted,Minimum,72,68,61
+Boy,USA,high school,No Assistance,Thorough,89,83,81
+Boy,UK,high school,No Assistance,Minimum,50,48,43
+Boy,UK,associate's degree,No Assistance,Minimum,84,75,73
+Girl,USA,some college,Assisted,Thorough,67,87,86
+Girl,Others,some college,No Assistance,Minimum,100,94,98
+Girl,USA,associate's degree,Assisted,Minimum,68,79,75
+Boy,USA,some college,Assisted,Minimum,68,60,50
+Girl,USA,associate's degree,Assisted,Minimum,56,63,63
+Boy,USA,bachelor's degree,Assisted,Minimum,40,58,48
+Girl,Australia,bachelor's degree,No Assistance,Minimum,82,91,90
+Boy,Australia,associate's degree,Assisted,Minimum,56,56,49
+Girl,Others,bachelor's degree,No Assistance,Minimum,100,99,98
+Boy,UK,high school,No Assistance,Thorough,75,67,69
+Boy,USA,bachelor's degree,Assisted,Minimum,56,60,56
+Boy,UK,some college,Assisted,Minimum,57,56,46
+Girl,Others,some college,No Assistance,Minimum,74,72,77
+Girl,USA,some college,Assisted,Minimum,80,92,92
+Boy,India,bachelor's degree,No Assistance,Thorough,78,60,63
+Girl,USA,some college,No Assistance,Minimum,87,89,92
+Girl,Australia,associate's degree,Assisted,Minimum,29,33,39
+Boy,India,high school,Assisted,Thorough,75,69,66
+Girl,India,high school,Assisted,Thorough,80,90,86
+Boy,USA,some college,No Assistance,Minimum,94,76,77
+Girl,USA,associate's degree,No Assistance,Thorough,86,87,91
+Girl,USA,high school,No Assistance,Minimum,66,71,75
+Girl,USA,associate's degree,No Assistance,Thorough,71,88,85
+Girl,Australia,some high school,No Assistance,Minimum,62,69,62
+Girl,UK,associate's degree,No Assistance,Thorough,93,92,92
+Girl,Australia,bachelor's degree,No Assistance,Thorough,74,78,84
+Boy,Others,bachelor's degree,No Assistance,Thorough,79,64,67
+Boy,Australia,associate's degree,No Assistance,Minimum,83,70,73
+Girl,Australia,master's degree,No Assistance,Minimum,58,66,71
+Boy,Others,associate's degree,No Assistance,Minimum,79,73,68
+Boy,UK,high school,No Assistance,Thorough,76,73,69
+Girl,Australia,associate's degree,Assisted,Minimum,55,61,57
+Boy,USA,some college,Assisted,Minimum,71,70,62
+Boy,India,high school,No Assistance,Minimum,62,54,47
+Girl,UK,associate's degree,No Assistance,Minimum,52,54,55
+Boy,USA,high school,No Assistance,Minimum,73,76,72
+Boy,Australia,some college,Assisted,Minimum,64,49,57
+Girl,USA,associate's degree,Assisted,Minimum,63,77,75
+Boy,UK,some high school,No Assistance,Thorough,67,55,58
+Boy,India,associate's degree,Assisted,Thorough,82,84,83
+Girl,India,associate's degree,Assisted,Minimum,68,87,77
+Girl,USA,associate's degree,No Assistance,Minimum,67,66,71
+Girl,USA,some college,No Assistance,Minimum,86,85,91
+Girl,USA,bachelor's degree,No Assistance,Minimum,84,90,91
+Girl,UK,high school,No Assistance,Minimum,57,66,69
+Boy,Australia,high school,No Assistance,Thorough,71,66,67
+Girl,USA,some college,No Assistance,Minimum,57,50,53
+Girl,Australia,some college,Assisted,Thorough,62,80,77
+Girl,UK,some high school,No Assistance,Minimum,69,71,69
