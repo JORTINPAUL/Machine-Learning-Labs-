@@ -1,3 +1,3 @@
-# Machine Learning Labs
-## 1. Installation and Description  of ML Libraries 
-## 1. Exploratory Data Analysis on ExamResult Dataste
+## Machine Learning Labs
+### 1. Installation and Description  of ML Libraries 
+### 2. Exploratory Data Analysis on ExamResult Datast
